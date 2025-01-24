@@ -1498,11 +1498,10 @@ if __name__  == '__main__':
 
 
         R_D, R_B, R_F=15,4,4
-        InOutDiffPr = [0x4fd9, 0x8098, 116.5]  # 15轮概率为116.5的差分链,并不需要给出确定的差分
+        InOutDiffPr = [0x4fd9, 0x8098, 116.5]  
 
         # R_D, R_B, R_F = 13, 5, 5
-        # InOutDiffPr = [0x1008, 0x2062, 105.9]  # 15轮概率为116.5的差分链,并不需要给出确定的差分
-
+        # InOutDiffPr = [0x1008, 0x2062, 105.9]  
 
         TimeLimit=0
 
